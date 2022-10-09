@@ -1,4 +1,4 @@
-module github.com/joelanford/go-apidiff
+module github.com/acumino/go-apidiff
 
 go 1.18
 
